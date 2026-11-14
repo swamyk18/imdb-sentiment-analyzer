@@ -1,0 +1,7 @@
+IMDB Dataset.csv
+word2vec_project.ipynb
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
