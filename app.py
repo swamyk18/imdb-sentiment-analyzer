@@ -5,7 +5,6 @@ import numpy as np
 import streamlit as st
 from gensim.models import Word2Vec
 import tensorflow as tf
-from gensim.models import Word2Vec
 from tensorflow.keras.models import load_model
 
 VECTOR_SIZE=100
